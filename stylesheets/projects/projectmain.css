@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+/*this is the main Project area where all the icons look like
+a vertical keyboard and are animated to visualise the selections*/
+.Projectsz {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif; 
+  margin-top: 50px;
+}
+
+
+.ProJ {
+  background-color: DodgerBlue;
+  border: none; 
+  border-radius: 18px;
+  color: white; 
+  padding: 12px 16px;
+  font-size: 20px;
+  cursor: pointer; 
+  text-align: center;
+  height:  300px;
+  padding-left: 14px;
+  padding-right: 14px;
+  line-height: 75px;
+  margin: 10px ;
+  display:inline-block;
+  color: black;
+  text-decoration: none;
+  width: 150px;
+}
+
+.ProJ:hover {
+  background-color: #ff6262;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+
+  transform: scale(1.3,1.3);
+  transition: 0.5s;
+
+
+}
+
+
+
