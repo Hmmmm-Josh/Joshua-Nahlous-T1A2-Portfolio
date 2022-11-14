@@ -1,14 +1,14 @@
 Joshua-Nahlous-T1A2-Portfolio
 
 A link (URL) to your published portfolio website
-https://youtu.be/B0VevcflHv8
 
 
 A link to your GitHub gitrepo
-
+https://github.com/Hmmmm-Josh/Joshua-Nahlous-T1A2-Portfolio
 
 
 A link to your presentation video
+https://youtu.be/B0VevcflHv8
 
 
 
